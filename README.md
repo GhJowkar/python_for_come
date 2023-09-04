@@ -1,4 +1,4 @@
-# Tutorial: Python for Computational Evolutionary Model
+# Tutorial: Python for Computational Molecular Evolutionary Tasks
 
 In this file, I provided Python scripts for working with biological sequences and phylogenetic trees. 
 This tutorial assumes you are familiar with basic bioinformatic tasks and their extension to computational evolutionary models.
@@ -19,7 +19,7 @@ Shows how to load phylogenetic tree and perform simple data structure tasks.
 
 ## Lesson 3: Bonus 
 
-Converting existing exchangalbility matrices to generator 'Q' matrix.
+Converting existing exchangalbility matrices to generator 'Q' matrix for WAG and LG models.
 
 ## Contributing
 
