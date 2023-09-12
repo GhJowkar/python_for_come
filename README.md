@@ -17,7 +17,11 @@ Shows how to load sequence data and perform simple data structure tasks.
 
 Shows how to load phylogenetic tree and perform simple data structure tasks.
 
-## Lesson 3: Bonus 
+## Lesson 3: Visualizing reconstructed ancestors using ARPIP
+
+Visualizing posterior probability profile, indel points and etc.
+
+## Lesson Bonus 
 
 Converting existing exchangalbility matrices to generator 'Q' matrix for WAG and LG models.
 
