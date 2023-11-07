@@ -21,6 +21,10 @@ Shows how to load phylogenetic tree and perform simple data structure tasks.
 
 Visualizing posterior probability profile, indel points and etc.
 
+## Lesson 4: Indel metrics
+
+Measuring the dynamic of gaps and indels. 
+
 ## Lesson Bonus 
 
 Converting existing exchangalbility matrices to generator 'Q' matrix for WAG and LG models.
