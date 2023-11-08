@@ -3,10 +3,20 @@
 In this file, I provided Python scripts for working with biological sequences and phylogenetic trees. 
 This tutorial assumes you are familiar with basic bioinformatic tasks and their extension to computational evolutionary models.
 
-### Requirments
-For this tutorial, you should already have Python 3.9 or higher, jupyter notebook along with the following libraries:
+## Requirments
+For this tutorial, you should already have [Python 3.9 or higher](https://realpython.com/installing-python/), [jupyter notebook](https://jupyter.org/install) along with the following libraries:
 
-'''numpy, ete3, biopython and pandas'''
+```numpy, ete3, biopython, seaborn, matplotlib and pandas```
+
+### Installation
+
+To install the package you can simply download the repository and run the following command in the root directory.
+
+Install the dependencies using this command:
+
+```console
+pip3 install -r requirements.txt
+```
 
 
 ## Lesson 1: Basics Sequence tasks
